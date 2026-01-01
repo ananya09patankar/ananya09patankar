@@ -36,8 +36,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 # Statistics 📊
 
 ## 📊 GitHub Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya09patankar&theme=default)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananya09patankar&theme=default)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya09patankar&theme=default) ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananya09patankar&theme=default)
 
 
 # Technologies and Tools 🧰
