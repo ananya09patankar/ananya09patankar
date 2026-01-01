@@ -35,9 +35,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
  
 # Statistics 📊
 
-![Ananya's github stats](https://github-readme-stats.vercel.app/api?username=ananya09patankar&show_icons=true&theme=shades-of-purple&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya09patankar&layout=compact&langs_count=25&cache_seconds=86400)
+## 📊 GitHub Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananya09patankar&theme=default)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananya09patankar&theme=default)
 
 
 # Technologies and Tools 🧰
